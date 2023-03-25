@@ -25,9 +25,9 @@
   "envParams": {},
   "customLogs": "stdout",
   "initialDelaySeconds": 2,
-  "dataBaseName": "nodejs_demo",
+  "dataBaseName": "django_demo",
   "executeSQLs": [
-    "CREATE DATABASE IF NOT EXISTS nodejs_demo;",
-    "USE nodejs_demo;"
+    "CREATE DATABASE IF NOT EXISTS django_demo;",
+    "USE django_demo;"
   ]
 }
