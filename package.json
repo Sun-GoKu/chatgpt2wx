@@ -1,12 +1,13 @@
 {
   "name": "wx-chatgpt",
   "version": "1.0.0",
-  "description": "相学长chatgpt服务",
+  "description": "Hincy's chatgpt服务",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "author": "",
+  "private":true,
   "license": "Apache-2.0",
   "engines": {
     "node": ">=12.0.0"
@@ -21,5 +22,5 @@
     "openai": "^3.1.0",
     "sequelize": "^6.13.0"
   },
-  "repository": "git@github.com:wuomzfx/wx-chatgpt.git"
+  "repository": "git@github.com/Sun-GoKu/chatgpt2wx.git"
 }
